@@ -3,8 +3,16 @@ using GestaoPagamento.ContentContext.Enum;
 namespace GestaoPagamento.ContentContext{
     public class Empresa{
 
-        public Empresa()
+        public Empresa(
+            string razaoSocial,
+            string nomeFantasia,
+            string cnpj,
+            string incricaoEstatual)
         {
+            RazaoSocial = razaoSocial;
+            NomeFantasia = nomeFantasia;
+            Cnpj = cnpj;
+            IncricaoEstatual = incricaoEstatual;
             Enderecos = new List<Endereco>();
             Contatos =new List<Contato>();
         }

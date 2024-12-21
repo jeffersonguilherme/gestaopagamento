@@ -1,0 +1,15 @@
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\bin\Debug\net8.0\gestaopagamento.exe
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\bin\Debug\net8.0\gestaopagamento.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\bin\Debug\net8.0\gestaopagamento.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\bin\Debug\net8.0\gestaopagamento.dll
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\bin\Debug\net8.0\gestaopagamento.pdb
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\obj\Debug\net8.0\gestaopagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\obj\Debug\net8.0\gestaopagamento.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\obj\Debug\net8.0\gestaopagamento.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\obj\Debug\net8.0\gestaopagamento.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\obj\Debug\net8.0\gestaopagamento.sourcelink.json
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\obj\Debug\net8.0\gestaopagamento.dll
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\obj\Debug\net8.0\refint\gestaopagamento.dll
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\obj\Debug\net8.0\gestaopagamento.pdb
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\obj\Debug\net8.0\gestaopagamento.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\gestaopagamento\obj\Debug\net8.0\ref\gestaopagamento.dll
